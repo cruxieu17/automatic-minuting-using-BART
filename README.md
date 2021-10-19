@@ -1,4 +1,3 @@
-# Official Repository for ECIR Meetin Summarization Submission.
-
+# Official Repository for ECIR Meeting Summarization Submission.
 
 
