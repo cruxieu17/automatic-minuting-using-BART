@@ -1,3 +1,3 @@
-# Official Repository for ECIR Meeting Summarization Submission.
+# Official Repository for ECIR Automatic Minuting Submission.
 
 
