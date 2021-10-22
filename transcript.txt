@@ -1,571 +1,1037 @@
-(PERSON3) Ensure that I have followed the guidelines that you have sent.
-(PERSON5) Ehm.
-(PERSON3) And uhm <unintelligible> I will send you. 
-(PERSON5) Yes, perfect. 
-Thank you.
-Uhm.
-(PERSON3) Okay. 
-Okay.
-And and the other think if now we have to really (mobilize) our efforts tools the proposals.
-(PERSON5) Yes.
-(PERSON3) Because you (know) late,
-the data deadline has already come now.
-It is November 30th.
-(PERSON5) November 3rd?
-(PERSON3) November 30th. 
-(feasible)
-End of November.
-() End of November,
-okay. 
-Uhm.
-(PERSON3) He guess.
-So we have to <unintelligible>about the data about the even mission metrics.
-Tho- these may change actually,
-but the proposal should look good with all the all the-
-(PERSON5) Yes, yes.
-(PERSON3) Like with all the components, 
-you know.
-(PERSON5) Yes.
-(PERSON3) And I <unintelligible>  I should be able to get back to all of you uh by the end of the week with the [ORGANIZATION1] data set.
-Yeah, I think I think I can.
-I can lay-
-(PERSON5)  So you are now-
-so now you are active uhm you are you are wo- work in hard on [ORGANIZATION1].
-Yes?
-(PERSON3) Yes, yes, 
-I think they if should get ready by the end of the week.
-(PERSON5) Uhm, we- uhm.
-Week ago you said  that it should have been ready to by the end of the last week.
-So actually, actually kind of wait expected that today we will discuss the annotations and these alignment tool by [PERSON4].
-So how it will this this [PERSON4]-
-(PERSON3) Yeah, okay.
-(PERSON5) <unintelligible> I actually uhm.
-I 'm not really sure if we should not no no.
-I don't mean that I do-
-Well.
-By the end of November should we uhm get some new aligned data.
-By using [PERSON4]'s tool.
-And already made by annotators.
-Do we <unintelligible> it the end of November,
-should we started now 
-and be really quick in giving to an <unintelligible>?
-Really takes time before we start (this) annotators work.
-Should we started?
-What do you think?
-(PERSON3) Uhm.
-I 'm not really sure about-
-like this should be started.
-But I don't think that we can put that in the proposal.
-This can start-
-(PERSON5) Okay.
-(PERSON3) Immediately but for the for the fast shared task I'm not sure like we have <unintelligible> clear or on the <unintelligible> of using the alignment thing.  
-(PERSON5) Okay.
-Um.
-(PERSON3) So the <unintelligible> [PERSON5] like uhm I <unintelligible> late personally I would prefer the shared task to be as simple as possible, 
-because even the task is hard.
-That I have late available realized by now.
-(PERSON5) Uhm.
-(PERSON3) So like if you the keep like keeping the major focus on the summarization part.
-Like to to build summaries very close to how how the <unintelligible> are.
-Should be the main focus.
-And the in like uhm this (envisioned) to lose the evolution metrics that we are going to propose. 
-Should come in the second <unintelligible> like uhm not in the fast shared task.
-Because that will be like then then we will mixing up too many things in one in one place.
-(PERSON5) Uhm,
-well, I 'm not sure if understand all the details.
-Uhm.
-(PERSON3) So I'm saying like uhm little skip the fast shared task as simple as possibly.
-Like we have already some evaluation metrics like <unintelligible> and other evaluation metrics that we have.
-Okay and we also have a manualy evaluation think that is prepared by [PERSON6].
-And I think it's it's good that we can involve annotators to-
-(PERSON5) But does <unintelligible> has does <unintelligible> have at least some minimal sense, 
-doesn't <unintelligible> give some totaly unr- unrealistic numbers that doesn't that don't say anything serious about the quality of the annotations.
-Uhm.
-(PERSON6) <unintelligible> says, but <unintelligible> we are in a community.
-(PERSON3) Yeah.
-It's it's for summarization the rules is that <unintelligible>.
-You know like, yeah.
-I know like we that that <unintelligible> that.
-But it's the <unintelligible>.
-(PERSON5) So actually, 
-why we want to run this [PERSON4] 's tool is that <unintelligible> has actually no real sense run estimating the summariz on the one hand, 
-and on the other hand that manual metrix, manual evolutions that we have now are very very subjective and uhm kind of also very wake.
-And in these keys using the (alignment) could give us a little more than <unintelligible> when at the community.
-(PERSON3) Yesss.
-Yes.
-(PERSON5) Probably if we don't put at in to the shared task, 
-we kind of don't use-
-(PERSON3) Yeah.
-(PERSON5) We could you.
-(PERSON3) It <unintelligible> this investigation this desert should definitelly go in the background.
-Ah, for the alignment thing,
-because this this this could be on new contribution from (all in).
-(PERSON5) Yeah.
-(PERSON3) So this should <unintelligible> going the background.
-But ah like a convincing the convincing the reviews about the alignment tool.
-(PERSON5) Yes, this-
-(PERSON3) The proposal would be difficult so I would propose-
-(PERSON5) Maybe <unintelligible>.
-(PERSON3) Yeah.
-I would propose, 
-yeah, so I would propose that uh before aaa like making the alignment to <unintelligible> part of shared tasks datas get the people on <unintelligible> exceptive somewhere.
-And maybe <unintelligible>-
-(PERSON5) Okay.
-(PERSON3) the data set the alignment tool gated accepted by the community.
-And then we can refer that.
-Okay.
-This is on ready exceptive and so yeah.
-People can use this. 
-(PERSON5) Um-hum.
-(PERSON3) So.
-What they actually minutes that for the shared task get as go with the really conventional thing that people do for summarization.
-Take use rules.
-You some other evaluation metrics like <unintelligible> some 
-or like there were <unintelligible> metrics (late).
-Uhm using word <unintelligible> words distance and (stops).
-Uhm, so other than (rules).
-(PERSON5) Uhm probab- so I am  eager so I actually want to prepared to relieve you 
-and I really trust for this questions.
-I not so experienced in then, 
-but maybe you could also discussed it with [PERSON1] once more.
-So uhm it's in in these aspect you are definitely are are more experienced, 
-and uhm but please discussed discussed it with [PERSON1] before.
-(PERSON3) Yy, yes.
-Yes, actually [PERSON5], I was I was thinking too uhm evaluate some meetings based on the based on the automatic evaluation metrics that we have.
-And then show <unintelligible> to all of us. 
-And then we can decide that uhm which which evaluation metrics we can <unintelligible> we can <unintelligible> for the shared task. 
-Maybe.
-(PERSON5) Could you try these metrics on the meeting on these meeting?
-On these <unintelligible> set uhm I'm not (set) we will evalu- evaluate make.
-(PERSON3) Yeah, yeah, yeah. 
-Okay. 
-Oh, okay, okay
-So but-
-(PERSON5) So that we could get manual evalutions and also some automatic metrics, 
-and then compare them.
-(PERSON3) Yes, you are okay. 
-So [PERSON5], when do you need this till me.
-I will schedule accordingly.
-When do you need?
-(PERSON5) Well, I don't really needed.
-I want to know what  I do myself to be as uhm so af- so as effective as possible.
-So.
-(PERSON3) Yeah.
-(PERSON5) So you actually <unintelligible>.
-So you you are time limited.
-Probably-
-(PERSON3) Hello?
-(PERSON5) Yes, 
-I 'm thinking {laugh}.
-(PERSON3) So okay.
-So [PERSON5] what you do is like want you have the minutes from all of your participants.
-Send me this. 
-And maybe within a deal <unintelligible> back with you all the evaluation metrics.
-(PERSON5) Yes. Okay.
-But maybe in this case, if you have a clear understanding what should we prepare before the end of November, 
-tell me what should I do?
-What should I gi- give you before this.
-Send email.
-(PERSON3) Yes. 
-So I what I we do now is maybe from tomorrow on works I will start writing like <unintelligible>
-I have already the components nearly.
-So it start (drafting) and then uhm we will definitely come up with some gaps that we need to killer.
-Then I will be late I can I can see that uhm what other things we (require).
-But like uhm the <unintelligible> lotion is to keep as uhm <unintelligible> simplest as possibly.
-So whatever we have we do the fast shared task with those.
-And in the (midway) in the background we <unintelligible>.
-(PERSON5) Uhm. 
-(PERSON3) Yeah.
-Okay.
-Yeah, so yeah.
-If you say, that standpoint on my hand it's too like uhm give you the bit give you all the <unintelligible> [ORGANIZATION1] data which should be ready,
-because the minutes I have downloaded.
-The only thing that is <unintelligible> too properly align with the properly align with the corresponding trasncripts.
-So I have to find way to do that.
-And <unintelligible> also like uhm prepare in the form like the basics sample form that you require.
-Right?
-As far the [PROJECT1] meetings.
-(PERSON5) No I'm totally lost. 
-(PERSON3) So I 'm saying that for for the you-
-(PERSON5) Firts, so.
-(PERSON3) For the [ORGANIZATION1] data set, you need the data in the form like our [PROJECT1] meetings.
-Right?
-(PERSON5) Yes.
-(PERSON3) Yes, so that is <unintelligible> from my part .
-I have to do that.
-(PERSON5) Yes. 
-Yes.
-(PERSON3) And <unintelligible> with to you <unintelligible> finally data.
-Yeah.
-(PERSON5) Uhm. 
-<other_noise>
-And what I- 
-yes, this from [ORGANIZATION1] it's clear to me. 
-What is not clear to me is what we do with the alignment of transcripts and minutes now.
-Uhm did you already tried this [PERSON4]'s tool,
-did you think about how to organize this annotators work.
-Do we begin it now?
-Do we begin it next week after you already with [ORGANIZATION1] corpus
-or don't or we don't begin it at all, 
-because as your seen it is not actuall for this (shared task).
-(PERSON3) No, [PERSON5].
-I I think we should begin.
-I think we should begin <unintelligible> take the charge.
-Because I would be now fully focused till November 30th on the shared task proposal. 
-(PERSON5) But who?
-I can 't, I can 't.
-So you are the only person who understand how this [PERSON4] 's tool wor- functions.
-[PERSON4] is not working for that.
-So I really need person,
-who will really <unintelligible> help me to begin work with annotators. 
-(PERSON3) Yeah, yeah.
-So I think uhm can uhm because I think [PERSON2] was also working on integrating something into the tool
-and yeah she knows.
-(PERSON5) Where is [PERSON2] actually?
-She is not with us somehow, 
-but I see her online. 
-Uhm.
-(PERSON3) So uhm.
-(PERSON5) So you, you want to you want to transfer this task to [PERSON2]?
-(PERSON3) Not exactly.
-I would say that I would do it once 
-and like uhm once I'm done with the [ORGANIZATION1] thing
-and I believe <unintelligible> proposal. 
-Because uhm.
-(PERSON5) Yes, but that means after<unintelligible> end of November.
-(PERSON3) Yeah, maybe.
-Yeah.
-(PERSON5) Because I actually I'm kind of waiting all the times,
-so I don't really understand. 
-If I should stop waiting {laugh},
-so uhm okay.
-Becau-
-So in this case either I wait to December.
-Or you transform this task to [PERSON2].
-And uhm explain her how to I don't know work with anno-
-So this is really I don't know at all how this techn- technical part works.
-(PERSON3) Uhm.
-(PERSON5) And [PERSON6] indeed <unintelligible> help with this task.
-I don't want how to begin.
-So I know how to in how to work within the tool,
-but uhm if uhm I send the link to the inc- to this tol- to my annotors 
-and they have some questions, 
-and they will have some questions, definitely because this is written in Python,
-and Python mostly has problems when install in that tool.
-You also experienced such problems.
-And it-
-So
-If the annotators come ups with questions,
-I would never able to answer.
-So I really need a person who would be uhm by hand,
-so it would really help me all the time and in in this.
-(PERSON3) Yeah, so one thing that we need to be sure about the tool is like the tool is doing annotators uhm like alignment <unintelligible>.
-So but the thing is that once the once the annotator does the alignment,
-so what is the output of the tools.
-It should be some manual score or metric or what.
-So that I think you need some discussion.
-(PERSON5) Why metric?
-This is just a alignment, just which part of what-
-So you mean uhm how it is can be useful for evaluation.
-But this is another (question) yes, 
-but this is not before that.
-We sh- uhm
-Yes, this is important question.
-But this is not just for that.
-<unintelligible>
-(PERSON3) Yeah, once we do the alignment, 
-understand.
-Okay. 
-Then I will tool is doing alignment,
-so how <unintelligible> going to use the alignment.
-So that question also let should coming (early).
-(PERSON5) Uhm, so you (should) think it's come it should come immediately uhm at the same time?
-(PERSON3) Yes.
-(PERSON5) Okay. 
-From <unintelligible>.
-(PERSON3) No, we <unintelligible> able outcome from the tools.  
-(PERSON5) We need a <unintelligible> idea how to use it.
-(PERSON3) Yeah, exactly.
-Suppose we use the alignment.
-And then um we don't know how to use that.
-(PERSON5) No.
-(PERSON3) So yes, for example, if you see uhm that (Jens) that minutes fix just smaller part of the transcript 
-or uhm then so then they get less as smaller number of kind of in these evaluation.
-This is what we discussed with [PERSON1] once,
-and I <unintelligible> objection to that because it is not so uhm evident.
-So his idea was that say for example, 
-if  there is if the uhm crossling between transkript and minutes is smaller than the quality of the minutes is also worse.
-Uhm but it from from from my opinion it should not be always the case.
-Oh, because it could also be that some pieces of transcripts are unimportant or on the contrary.
-So it's not so straightforward.
-(At this moment) I don't have any clear answer to your question
-and I also understand that it should be.
-Uhm it should be stated clearly, 
-but I I me and [PERSON1] have kind of strong intuition that it could help by evaluating.
-Uhm.
-(PERSON3) Yeah. <unintelligible>
-Yeah, that is that is very much clear, 
-that if we definitely help for the evaluation, 
-because oh yeah what you think in machine translation this alignment tool or alignment metric is uhm like very helps.
-Similar I think <unintelligible> go for summarization when we see that <unintelligible> models <unintelligible> very good.
-Which is eventually alignment.
-But the thing is like once we give this thing to our annotators.
-I would really want to see that some tangible things come <unintelligible>.
-So once the alignment this done then (mix) work.
-(PERSON5) Okay. 
-(PERSON3) One we-
-(PERSON5)Okay,
-what tangible thing could be that uhm and the result you can 't you you get.
-Align of summary.
-And a piece of transcript.
-So kind of a structured uhm transkript into pieces where one line of summary corresponds to a piece of transcripts.
-So you don't have a very long transcript 
-and very long and very big minutes.
-But you really ha- have a summarization office small piece of text.
-So it could be so the text could be divided according of that, 
-and that data in this are kind of (March and Margaret) in this way.
-So this is one of outputs.
-Do you get-
-do you understand what I'm trying to say?
-(PERSON3) Hm.
-Yeah, I've I've got it.
-So you mean to say that uhm we have aligned aligned minute and transcript?
-And that is the that is the current output.
-And then we think that how to leverage on that.
-(PERSON5) No, no, no.
-No.
-I just saying that this is already a good advantage to have smaller pieces of transcripts, and a correspondent summary line.
-So <unintelligible> we have other type of data somehow,
-that not just big one hour long transcripts,
-and long too pages long minutes.
-But we also get the output like ten lines of transcript 
-and one line of minute.
-So enlarge so the datas different qualitatively different data set.
-Very have many, many pieces of transcripts 
-and many, many corresponding lines of summary.
-So it could be kind also ano- uhm good training data.
-Better.
-(PERSON3) Yeah. 
-Okay.
-(PERSON5)  I 'm not sure if I'm say- saying it clear enough.
-(PERSON3) Yeah, okay.
-So uhm so what <unintelligible> [PERSON5], 
-I I I absolutely support you that we should start the this alignment thing with our annotators.
-Soon.
-But I'm I'm not sure that if if we should include that evaluation part as part of <unintelligible> shared task. 
-Because there are still many questions unanswered.
-(PERSON5) Uhm.
-(PERSON3) How how are do we going to.
-(PERSON5) Yes, okay.
-Uhm. 
-I I've got what you said 
-and now I'm still wondering will work on that and when.
-So really kind of administrative  have this admi- administrative problem, 
-because I want to <unintelligible> 
-and I don't know how technical.
-Because the tool is actually ready.
-But there is some connection is missing that.
-Somebody should say how to download the meeting, 
-what to click to make it work, 
-and where to put the data.
-(PERSON3) Okay.
-Okay, yeah.
-I can I can-
-(PERSON5) If you want to transfer it if you want to transfer it  to [PERSON2] maybe it would be also possible.
-Please then go [PERSON2] and you to just agree who is doing that.
-And agree on the details.
-I think it-
-(PERSON2) I'm here <unintelligible>.
-(PERSON5) Yeah, hi.
-(PERSON2) I was listening to you all the time, 
-so you said.
-(PERSON5) <unintelligible> really?
-{laugh}
-I didn't hear aha now I (seen) see you,
-because I just looked at them for uhm some minutes ago,
-I (didn't) see you, 
-that's why I was writing you.
-(PERSON2) Yeah, I joined there there was a network problem.
-(PERSON5) By teh way these time <unintelligible> one instead of to.
-We started an hour earlier than normally today.
-(PERSON3) No is it?
-(PERSON2) <unintelligible>
-<unintelligible>
-(PERSON5) Yes, we had a <unintelligible>.
-(PERSON2) <unintelligible>
-(PERSON5) Well, it is actually okay and and I don't I don't mind it we started one, 
-but <unintelligible> now we have one.
-<unrecognisable_speech> one.
-(PERSON3) Uhm. 
-Okay.
-Yeah I think uhm I can work to I can work on that.
-But I think I 'm a bit too much uhm like worried about the proposal.
-And also that like to create the data set before like we to have a good data of the [ORGANIZATION1] thing to be release just part of the shared task.
-Uhm so I don't <unintelligible> if [PERSON2] will be comfortable to do that.
-Or otherwise eventually I can do that, 
-but maybe I I will require some more time.
-(PERSON2) Uhm are you talking about the [ORGANIZATION1] corpus creation?
-(PERSON5) No.
-(PERSON3) No, no , no.
-(PERSON5) [PERSON4]'s alignment toll and starting align transript sum- summarize.
-(PERSON2) Yeah.
-So I 'm comfortable with it.
-If you want to transfer it's okay with me.
-(PERSON3) Yeah,
-if you if you want to start uhm you can.
-Maybe I will join you within a week once this things are very <unintelligible> sorted out.
-(PERSON5) But uhm may I ask [PERSON2] and Thirtankar if you could just join to you to together
-and discr- and discuss the technical details.
-And and how we how the work could be started.
-Say till I don't know. 
-Thursday.
-Friday.
-So (that we could) already speak (??about )  on Friday and started on Monday.
-(PERSON3) Uhm.
-So you are looking forward the start (date??) for the annotators to do the annotations from Monday on worse.
-Next Monday on worse, okay?
-(PERSON5) Are are <unintelligible> I 'm looking forward to started from this from September, 
-because I think we have a lot of data
-and I 'm so I 'm still (waiting on terms) for creating uhm kind of uhm double summarize for meetings that are already minuted.
-And I (am afraid) we they will <unintelligible> annotators will be away,
-because they start <unintelligible> finish before they make <unintelligible> alignment.
-So I would be very glad to uhm make the task the anno- ask the annotators to make the alignment.
-I'm sure if we will have enough money next year for example.
-So it's really important.
-It's a big very big work this alignment it really take a lot of time.
-(PERSON2) Uhm.
-(PERSON5) 130 minutes for English.
-And 110 minutes for Czech.
-It's really very, very big work.
-And <unintelligible> to be started as as soon as possible.
-(PERSON3) Yeah.
-Okay, so, and and annotating [PERSON5] I would one to mention like before <unintelligible> giving the minutes to the annotators we must be sure that which transkripts or minutes <unintelligible> really part of the data set, 
-because some of them-
-(PERSON5) Yes.
-(PERSON3) Has <unintelligible>.
-(PERSON5) Yes.
-I think about it.
-I think about that, 
-and probably excludes some <unintelligible> meetings, 
-and some other meetings 
-and I uhm I will definitely start with imaging center of the shore <unintelligible>.
-(PERSON3) Okay.
-(PERSON2) So [PERSON5] what exactly do you want as one from us like to start the annotation work, because I think we should do it as soon as possible, 
-because it will it is going to get a lot of time.
-(PERSON5) [PERSON3] knows that.
-Because he spoke with <unintelligible> 
-and he will explain you what to do.
-And after you <unintelligible> the topic, 
-we will <unintelligible> discuss it on Friday.
-And then I expect that you will say me, 
-what should I say to annotators.
-So.
-What what <unintelligible> I just try to my annotator know you will do the alignment of this and this,
-you find guidelines on this link.
-This are these are the guidelines that we already-
-(PERSON2) Okay.
-(PERSON5)  created by a [PERSON4] and me.
-And <unintelligible> his girlfriend, who is <unintelligible> annotators.
-And please install it here,
-if you have problems with installation makes so and so.
-And but especially if we want to know uhm just I don't know where is the data are,
-how they get to the data.
-So this is what I 'm not sure about.
-Oh just the whole process of annotations so for on your sight is the decision how the annotation looks look <unintelligible> where is the data,
-do I send the data, 
-we have once started to put all our data to GitHub,
-but we didn't finish it.
-So how now I 'm <unintelligible> sure what to do with the (data).
-(PERSON3) [PERSON5], okay, okay.
-So I <unintelligible> by the end of this week you have will you will have answers to all of this.
-(PERSON5) Okay. 
-Thank you.
-(PERSON3) Yeah.
-So by the end of the week, 
-we will have answers to all of this to connect to the annotators.
-And you <unintelligible> we can also <unintelligible> session with your annotators to show them that how to do it.
-(PERSON5) Yes, yes.
-But yes- <unintelligible>
-First we speak about it but that I will I can org- so this is the topic you ar- you actually promised me last week that we could make this call with annotators but what do we <unintelligible> them?
-(PERSON3) Yeah.
-(PERSON5) Thank you.
-This is definitely what you what I need.
-(PERSON3) Yeah, okay.
-(PERSON5) Uhm.
-(PERSON3) Okay,
-this will be done.
-By the end of this week.
-This should be done.
-(PERSON5) Perfect.
-Thank you.
-Now it seems that our talk is remain aha six minutes remaining.
-Okay.
-(PERSON2) So if you want my help, 
-[PERSON3] you can let me know, if I have-
-(PERSON3) Yeah, yeah, yeah.
-I I have to schedule a session with you [PERSON2], 
-because uhm there are too many things on my plate now,
-so I will definitely need hands.
-(PERSON2) Yeah, yeah.
-You can tell me whatever you one may help with.
-I will do that.
-(PERSON3) Yeah, sure, sure.
-(PERSON2) Uhm.
-(PERSON3) And and any decision points from [PERSON1],
-because [PERSON6] was mentioning that we even to talk [PERSON1] regarding some decision questions.
-So are there things on our plate?
-(PERSON5) From my sight nothing happend.
-Because  I I didn't speak with [PERSON1].
-I had the f- so  I think we ho- we will as- he will join us uhm when we discuss the evaluation maybe,
-not today.
-(PERSON3) Uhm.
-(PERSON5) Uhm I didn't speak to him, 
-I didn't so uhm we don't have the con- concrete topic to ask him,
-so so I didn't do it.
-(PERSON3) Yeah, yeah.
-Okay, so let me know things now.
-(PERSON5) If you noted to the agenda, 
-it will be it would be great.
-I didn-
-(PERSON3) Yeah, yeah.
-(PERSON5) Fine it's really it's really <unintelligible> do in but to the <unintelligible> do that.
-(PERSON3) Okay, we put that to the agenda,
-like I'm like <unintelligible> so many things,
-so it's the proposal that data for [ORGANIZATION1] 
-and uhm and a tool.
-Annotators tool.
-(PERSON5) Yes. 
-(PERSON3) Okay.
-Okay, okay [PERSON5].
-So I think I think we can have something by the end of the week for all of this.
-(PERSON5) Yeah, perfect.
-Perfect.
-(PERSON3) Yeah.
-(PERSON5) Well, okay.
-Is it all for today?
-(PERSON3) Yeah, okay, okay from my sight.
-Anything [PERSON6] would like to add maybe?
-(PERSON6) Uhm, no.
-(PERSON5) 3 minutes.
-{laugh}
-(PERSON3) Yeah.
-(PERSON5) Okay.
-Well then have nice time 
-and that's work hard.
-(PERSON3) Yes, and now the deadline <unintelligible>.
-(PERSON5) I'm I'm looking forward to that [ORGANIZATION1] data to <unintelligible>.
-(PERSON3) Yeah, yeah, yeah.
-[PERSON5], you should you should have it by the end of this week.
-(PERSON5) Are really uhm eager to see them.
-Really-
-(PERSON3) Yeah, yeah.
-(PERSON5) How it look.
-(PERSON3) Okay.
-(PERSON5) Well, thanks.
-And <unintelligible>.
-(PERSON3) Thank you. 
-Yeah.
-<unintelligible> take care.
-(PERSON2) Okay, bye bye guys.
-(PERSON3) We will see tommorrow, yeah. 
-By there.
+CORPUS: AMI
+MEETING ID: ES2014b
+
+TRANSCRIPT:
+
+[Project Manager] Right uh . So um . So where's the PowerPoint presentation ? Sorry ? Microsoft PowerPoint , right . Right , okay . So . Right . Okay , so we've got uh so we've got new project requirements . Um . So basically we've got three things , and we've got forty minutes in which to uh {disfmarker} for this meeting to uh to discuss the various options . Um . Three presentations .
+
+[Industrial Designer] We have a {disfmarker} I guess we have a presentation each , 'cause I've got one . Um .
+
+[User Interface] Yeah .
+
+[Marketing] Yeah ,
+
+[Project Manager] I see , right .
+
+[Marketing] I've got one too .
+
+[Project Manager] That's nice to know , one from each of you . Um new project requirements . Um so do we want to do the presentation first , or do we want to um {disfmarker} W I I got um {gap} or or three things basically , um relating to the remote being only for T_V_ . We discussed that last time
+
+[Industrial Designer] Mm-hmm .
+
+[Project Manager] and in actual fact that was pr pretty well what we came up with anyway .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] So in fact it actually f we won't be forestalled {vocalsound} in a sense .
+
+[Marketing] Mm-hmm .
+
+[User Interface] {vocalsound}
+
+[Industrial Designer] {gap}
+
+[Project Manager] Um we've got uh teletext outdated . Um did you get any information on that ?
+
+[Industrial Designer] Uh we didn't , no .
+
+[User Interface] No .
+
+[Project Manager] Right and the corporate image was the uh final thing .
+
+[Industrial Designer] I d I didn't personally .
+
+[Marketing] Hmm .
+
+[Project Manager] So I I got that in email form .
+
+[User Interface] {vocalsound}
+
+[Project Manager] Um . Right okay . So I guess if we go ahead with the uh with the three presentations . So we'll start with yourself on the basis that uh {disfmarker}
+
+[Industrial Designer] Okay that's fine . I'll just um I'll grab the wire out the back of this one .
+
+[Project Manager] Sorry , yep .
+
+[Industrial Designer] {gap}
+
+[User Interface] {vocalsound}
+
+[Project Manager] Oh . {vocalsound}
+
+[User Interface] What is it ?
+
+[Industrial Designer] I'm not quite sure how it {disfmarker}
+
+[User Interface] I think you've got to do um control F_ eight .
+
+[Industrial Designer] Control {gap} {disfmarker} Doesn't seem to be quite working at the moment .
+
+[User Interface] Shift F_ eight . {vocalsound} {gap}
+
+[Industrial Designer] Alt function F_ eight . {vocalsound} Again not doing anything .
+
+[Marketing] {vocalsound} There's usually a little thing in the top right for the {disfmarker}
+
+[Industrial Designer] Oh .
+
+[User Interface] Ah there ,
+
+[Marketing] Oh hang on ,
+
+[User Interface] it's doing something .
+
+[Marketing] it's just coming on .
+
+[Industrial Designer] {gap} pressed about five times now .
+
+[User Interface] {vocalsound}
+
+[Marketing] {vocalsound}
+
+[Industrial Designer] Okay , that's me {gap} . Okay , um I have to go {gap} again .
+
+[Project Manager] {gap} it going ?
+
+[Industrial Designer] Hopefully that should be it this time . Okay , I think we're there . That's good . Okay , um {disfmarker} Okay I'm gonna be looking at the working design . Um {vocalsound} of the of the remote control . Um I've just got three sections , first is the research I made on the on the remote control itself um . And then that involves the components required in it and the systems uh design of the actual the actual remote . Um so having researched the existing models within the market , um I found my research off the internet . Um I've established what the components required for the remote control to function , actually are . And then also the methods in which these components interact together for the remote to actually do what you want it to do and how it connects with the television . Um the basic components are an energy source which I guess um in most existing models would be a battery supply . Whether that'll be sort of two batteries , four batteries , um it may vary .
+
+[Project Manager] Okay .
+
+[Industrial Designer] We then have the user interface , which is basically the like the the buttons on the actual remote . Um the various functions used for changing channel , uh channel up and down , volume , things like that . Um there's also a chip inside the remote which does all the computer type things . And then the sender , which um is usually , I've found , an infra-red device which sends a signal to the actual television . Um and the last part is receiver which is important in the system but is not actually part of the remote itself , because that's obviously found in the television . {gap} . Um I'm gonna have to actually draw on the board because uh it was a little tricky on PowerPoint to get this working , so . I'll just go through there . S um um do we have a cloth to wipe this down with , or ? Oh I'll j
+
+[Project Manager] Uh there's the rubber on the right , I think .
+
+[User Interface] I think it's that little {disfmarker}
+
+[Industrial Designer] Oh I see . Oh okay . I'll get rid of the bear.$
+
+[Project Manager] {gap} it's magic . {vocalsound}
+
+[Marketing] {vocalsound}
+
+[Industrial Designer] Okay that's great . Okay , so we start off with a um battery suppl Uh no , a power supply which we'd probably get {disfmarker} it's probably gonna be the battery . Um we then have a particular button , which may be {disfmarker} {gap} that's obviously there's lots and lots of different buttons . Um but this is how the basic system works . Um that sends {gap} after you press that that sends the message to the chip , which um then sends {disfmarker} It sort of interprets which button you've pressed and then sends the appropriate message to the sender . {vocalsound} Um . So that's {gap} . That's the remote in itself , that's the components of the remote and how they work together . So this is the uh user interface . Um this is the chip itself , which then {gap} , and that's the that's the infra-red sender . And then on the separate thing we have on the on the television we have a a receiver . And the sender sends a message to the receiver . 'Kay .
+
+[Project Manager] So the the top bit's the power source , yes ? {gap} .
+
+[Industrial Designer] Ah yes , that's the power source . Um . {gap} going on to personal preferences , I've said that battery seems the best option for the actual remote , just because of the size . You don't want a a cable attached to the remote otherwise it's not it's not really a remote . Um and then the sender ,
+
+[Marketing] {vocalsound}
+
+[Industrial Designer] and infra-red um has been used quite successfully . If the battery's on reasonable power , they always seem to work fairly well . You don't have to be point directly at the television itself .
+
+[Project Manager] So the battery is the {disfmarker} in the sender .
+
+[Industrial Designer] Um {disfmarker} Yes . 'Kay and that's it for the moment .
+
+[Marketing] Okay .
+
+[Project Manager] Okay . So , now more design . {vocalsound}
+
+[User Interface] Right . Thank you . Mine's not quite as complicated as all that .
+
+[Project Manager] {vocalsound} That's what we like to hear . {vocalsound}
+
+[User Interface] {vocalsound} Did I press function ? Yeah .
+
+[Project Manager] Is it control function ei Oh , th there you go .
+
+[User Interface] Oh . Um . Okay so I'm gonna talk a bit about the technical functions design . I'm Louisa , the User Interface Designer , as you know . {vocalsound} Um so the m basic method of this is to send a signal from the remote to the television set , so that a desired function is performed . Um an example of the function could be to change the volume up or down , uh so obviously you need two different buttons for that . Um to change the channel , either by pressing the number that you want or by channel up or down . Um to switch the television on or off , maybe a standby button . Um here are two example remotes . Um by the look of it they both have um kind of play and fast forward , rewind functions , so I think they incorporate a kind of video function which we won't have to worry about . Uh but as you can see , the left remote is quite um quite busy looking , quite complicated . Um whereas the right remote is much simpler , it looks much more user friendly . Um so my personal preference would be the right remote . So , {vocalsound} it's got nice big buttons , it's got a very limited number of buttons . Um they're nice , kinda clearly labelled . Um I like the use of the kind of um symbols like the triangles and the squares and the arrows as well as the words on the um kind of play functions and all that . So it's very very user friendly , and it's got a little splash of colour . Could maybe do with some more colour . Um .
+
+[Project Manager] Well there's a couple of things there . Um we have to remember that we have our own um logo and colour scheme . So basically we'd have to uh we'd have to be putting that on um the the product .
+
+[User Interface] Hmm . Do we get to see that ?
+
+[Project Manager] {vocalsound} I haven't as yet , no .
+
+[User Interface] Will you be presenting that in a bit ? {vocalsound}
+
+[Project Manager] {vocalsound} But uh I got uh I got an email that basically said to uh make sure that uh whatever device we come up with at the end of the day had to incorporate um the corporate colour and slogan . So uh I'm guessing that uh uh I notice on the bottom there it's got uh what's that ? A_P_O_G_E_E_ that might be the corporate colour scheme , although the only the only colour I can see in that is the red .
+
+[Industrial Designer] {gap}
+
+[User Interface] Hmm .
+
+[Industrial Designer] Would you be able to get rid of the the extra buttons here , the the sort of circular section , because that seems to be for a video as well . So we could dispense with that little bit as well and just get it down to just the numbers and the volume . Possibly ?
+
+[User Interface] What do you mean by the circular section ?
+
+[Industrial Designer] J yeah yeah yeah j yeah
+
+[User Interface] Like all of that bottom bit ?
+
+[Project Manager] {vocalsound}
+
+[Industrial Designer] just this little bit is that {disfmarker} I think that's still um a video remote part ,
+
+[User Interface] Yeah .
+
+[Industrial Designer] so maybe we could get rid of that as well .
+
+[User Interface] Yeah . And I don't really think that you need nine numbers .
+
+[Project Manager] Well b uh w
+
+[User Interface] I mean how often do you use seven , eight and nine ? I think just one to six and then channel up and down should be enough .
+
+[Project Manager] Well th the on the {disfmarker} {vocalsound}
+
+[User Interface] Like how often do you hit nine ?
+
+[Project Manager] Well uh for for general television purposes obviously you have channels one to five at this point in time ,
+
+[Marketing] Mm-hmm .
+
+[Project Manager] and we'd have to have some room for uh future such channels . But but {disfmarker}
+
+[Industrial Designer] It's just people are used to seeing that , so if we didn't have them then they might think it's {disfmarker} {gap}
+
+[Project Manager] But , well possibly but the the other thing is that with um the current expansion of uh channels uh in the process of taking place , certainly the button up and down , but uh I mean {vocalsound} how many channels do we have to um {disfmarker} actual television channels do we have to uh prepare for ? I would have thought that uh {gap} it's forever expanding and at the moment we've got {disfmarker} although you've onl you've got the five standard , you've got the B_B_C_ have come up with a further six
+
+[Industrial Designer] {vocalsound}
+
+[Project Manager] and uh there's uh I don't know exactly how many channels there are on uh when you take into account uh Sky and various other um various others .
+
+[Marketing] Mm-hmm .
+
+[Industrial Designer] Hmm .
+
+[Project Manager] So I would've thought that we wouldn't , you know , rather {disfmarker}
+
+[User Interface] Hmm .
+
+[Project Manager] Okay , if the time of flicking from one to other , but presumably it'll take a second
+
+[User Interface] {vocalsound}
+
+[Project Manager] 'cause you have to be able to stop it . Maybe you could have a fast forward on the on the channels that w and then you could dispense with more otherwise . Y you'd want you'd want to get fairly quickly to the channel that you wanted .
+
+[Industrial Designer] {vocalsound}
+
+[User Interface] {vocalsound} Um some remotes have kind of favourite options where if you always flick from channel one to channel six , um if that's a favourite you just like by-pass two to five .
+
+[Project Manager] Mm-hmm .
+
+[Industrial Designer] {gap}
+
+[Project Manager] Yeah , I s I suppose in a sense you could have um if you've got a hundred channels then if you had sort of an easy way of getting {disfmarker} rather than having to go one to a hundred , you could go one to one to ten , ten to twenty
+
+[Industrial Designer] {gap}
+
+[User Interface] Hmm .
+
+[Project Manager] and then have a second button to get you to the actual channel you want
+
+[Marketing] Mm-hmm .
+
+[Project Manager] and that would cut down your time .
+
+[User Interface] Mm . Um .
+
+[Project Manager] Anyway .
+
+[User Interface] But I think a lot of um like Cable and Sky and stuff , that would be tuned to one channel , and then you'd have another remote for all of those channels .
+
+[Industrial Designer] Okay , yeah .
+
+[User Interface] Like to get to fifty five and the higher numbers {disfmarker}
+
+[Project Manager] {vocalsound} Whatever .
+
+[User Interface] Yeah .
+
+[Marketing] {vocalsound}
+
+[Project Manager] {vocalsound} Okay . Okay . Limit the number of buttons , user friendly .
+
+[User Interface] But I suppose nine's not really excessive .
+
+[Industrial Designer] I suppose with nine you've got the the like the last one which makes the tenth means you {disfmarker} uh it's like uh multiples you can put them together so you can make any number .
+
+[User Interface] I suppose it does make a good pattern .
+
+[Industrial Designer] So with that we'd kind of by-pass any problems with {disfmarker}
+
+[Project Manager] Yeah Well that's true , yeah ,
+
+[Industrial Designer] Yeah .
+
+[Project Manager] you could get fifty by five and a zero or whatever , that that makes sense .
+
+[Industrial Designer] Yeah . 'Cause that facilitates having all the numbers you could ever need .
+
+[Project Manager] Yeah .
+
+[Industrial Designer] Um .
+
+[Project Manager] Does .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] So w so what was the circular thing that you were {disfmarker}
+
+[User Interface] Okay . Um I think that's just for a video , so we wouldn't need any of that at all .
+
+[Industrial Designer] So we could get it down to what ?
+
+[Project Manager] If it's just for T_V_ , which is what it is at the moment .
+
+[User Interface] Mm-hmm .
+
+[Industrial Designer] So we get to {disfmarker} How many buttons have we got ? We've just got ten , eleven twelve th We got fourteen that we need . I guess .
+
+[Marketing] Mm-hmm .
+
+[Industrial Designer] Um which isn't really too many . That'll be quite easy to make a user guide for a fourteen button remote .
+
+[Project Manager] Mm-hmm . Well we've we've got um that it's remote for T_V_ only otherwise project would become too complex with uh which would endanger the time to market {vocalsound} was one of the considerations .
+
+[Industrial Designer] 'Kay .
+
+[Project Manager] I'm {disfmarker} I don't know d did you have that information behind the marketing ,
+
+[Marketing] Mm-hmm .
+
+[Project Manager] or was I meant to give you that information ?
+
+[Marketing] Um I'm not sure . I had I've had some market information ,
+
+[Project Manager] Right .
+
+[Marketing] but not from the company , no .
+
+[Project Manager] Right , okay , so basically time to market seems to be important , therefore speed of delivery .
+
+[Industrial Designer] 'Kay .
+
+[Project Manager] We've only got about another four hours left . {vocalsound}
+
+[Industrial Designer] {gap}
+
+[User Interface] {vocalsound}
+
+[Marketing] {vocalsound}
+
+[User Interface] Okay , so is everyone happy with that ?
+
+[Industrial Designer] Ah yes yes , that seems good .
+
+[Marketing] Okay .
+
+[User Interface] Right well that's the end of my presentation .
+
+[Marketing] 'Kay . I'm gonna pull this off . {vocalsound}
+
+[Industrial Designer] I think if you just give it a second to maybe catch up .
+
+[Project Manager] Yeah , I think she said twenty seconds to um {disfmarker}
+
+[Marketing] Uh-huh .
+
+[Industrial Designer] I'm sure we'll have by the end of today .
+
+[Marketing] Okay . {vocalsound} I'll give it another go . Yeah , there we go . {vocalsound}
+
+[Industrial Designer] {gap}
+
+[Marketing] Right , we've done some research into the functional requirements that people want out of their remote control . And first off we should state that th the remote control's for controlling the T_V_ and um how do people use it ? We asked them sort of which buttons were useful for them . Um how d how does a remote control look and feel for them , and what improvements would would they like to remote control . And we did that by sort of giving them a questionnaire that we'd prepared and asking them to fill in the answers . And three quarters of them found that remote controls are ugly and that a sort of even higher proportion would spend more for a sort of s uh a fancier remote control And that of all the buttons on the remote control , the sort of setting buttons for sort of the picture picture and brightness and the audio settings , um they weren't used very often at all . People concentrated on the channel buttons and the volume buttons and the power buttons . Uh we also asked them about speech recognition uh for remote control . And young people were quite receptive to this , but as soon as we got sort of over about into a thirty five to forty age {disfmarker} forty five age group and older , people people weren't quite so keen on speech recognition . There's a lot more th there's a lot lot more older people who didn't know whether they wanted it or not as well . Um we also asked what frustrated people about remote controls and the number one frustration was that the remote was lost somewhere else in the room and that they couldn't find it . And the second second biggest frustration what that if they got a new remote control , it was difficult to learn um all the buttons and all the functions , and to find your way around it . {vocalsound} Okay , so {disfmarker} My personal preferences from the marketing is that we need to come up with some {vocalsound} sort of sleek sort of good looking high high-tech {disfmarker} A design which looks high-tech , basically . Um and that we should come up with fewer buttons than most of the controls on the market , and we should sort of concentrate on the channels and sort of power , and also volume and that sort of thing , as as Louisa said . Um we could maybe come up with a menu , a sort of a an L_C_D_ menu for other functions on the remote control . That's worth thinking about . Um and maybe we could think about speech recognition as well , because um sort of young people are perhaps the ones that are gonna buy buy our new product if we aim it at sort of you know sort of a high-tech design . That that might be the market that we're we're looking for . And we could maybe think about using speech recogniti recognition as a way to find the remote control if it's lost in a room , rather than sort of um having it to {vocalsound} speech recognition to change the channels . 'Cause there's a problem with that in that the television makes noise , so it could end up talking to itself and changing its channel .
+
+[Industrial Designer] Mm .
+
+[Marketing] {vocalsound} Okay um , and that's the end of the slide show . That's it . Cool .
+
+[Project Manager] What was that last wee bit there ?
+
+[User Interface] Do {gap} a lot of um {disfmarker}
+
+[Marketing] Um about speech recognition ?
+
+[Project Manager] Speech recognition ,
+
+[User Interface] {vocalsound}
+
+[Marketing] Yeah .
+
+[Project Manager] But that was only for young people that preferred it , older people didn't .
+
+[Marketing] Youn young people pref Yeah , they s they said that they'd be interested in a remote control which offered that possibility and as you go up through the age groups , people got less and less interested in sort of a a remote control that you could talk to , so .
+
+[Industrial Designer] No what I maybe think is um it seems the technology would be quite advanced for that and they might end up costing more than our twelve fifty budget for for the speech recognition . Um .
+
+[Project Manager] Well that's right .
+
+[Marketing] Yeah . Yeah . Yeah .
+
+[Industrial Designer] And possibly the thing about the about the remote being lost we could have {disfmarker} You know with your mobile phone , you lose that and you can ring it . Maybe we can have some kind of sensor which is kept somewhere where you can {disfmarker} {gap} some kind of buzzer system between the two . So you can press a button which is always kept in one place
+
+[Marketing] Yeah .
+
+[Industrial Designer] and then it maybe buzzes to somewhere else , wherever the remote actually is .
+
+[Marketing] Uh-huh . Yeah . Yeah , we'd have t that would mean we'd have to put two products together as well ,
+
+[Industrial Designer] That is true , yes .
+
+[Marketing] which which again would probably be a bit expensive , but {disfmarker}
+
+[Industrial Designer] Hmm .
+
+[User Interface] There's key rings um that you kind of whistle at or clap at , I can't remember , and then they whistle back , or something like that .
+
+[Marketing] Yeah .
+
+[Project Manager] Sounds reasonable .
+
+[User Interface] That'd probably be really simple ,
+
+[Marketing] Yeah .
+
+[User Interface] they're cheap .
+
+[Project Manager] Mm-hmm .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] Yeah . So {disfmarker}
+
+[Industrial Designer] So I guess it'd be something we could like attach to the {disfmarker} or like the same technology could be put inside the inside the remote .
+
+[Project Manager] Well if you're trying to avoid having a second product 'cause obviously you could have a second product that gave you the right pitch which would set the remote off to say here I am sort of thing , you know without sound recognition . But if you {disfmarker} I know . Um I was gonna say a sharp noise , you know a clapping of hand or whatever . {vocalsound} You'd want to try and av just have the one product that if {disfmarker}
+
+[Industrial Designer] Yeah . Yeah if we if we could have it in the actual remote like everything in one one device .
+
+[Marketing] Mm-hmm . Yeah .
+
+[Project Manager] Yeah . Um I dunno um talking about vo I mean obviously if you've got voice recognition then you can do it in that way because it'll recognise the voice and you can give it a command , a set command whatever that happened to be .
+
+[Industrial Designer] {vocalsound}
+
+[Marketing] Yeah .
+
+[Project Manager] But you've then got the point if if you're not going with uh voice recognition then {disfmarker}
+
+[Industrial Designer] {gap} you could have an option to turn it off . Or {disfmarker}
+
+[Marketing] Mm-hmm .
+
+[Industrial Designer] Perhaps , um .
+
+[Marketing] Yeah .
+
+[Industrial Designer] So that would solve the problems with the T_V_ kind of speaking to the remote and changing its own channels .
+
+[Project Manager] Mm .
+
+[Marketing] {vocalsound}
+
+[Project Manager] So uh {vocalsound} Any sugges Well , any conclusions ?
+
+[Marketing] Um would it take quite a while to sort of develop the speech recognition software in the remote control ?
+
+[User Interface] {vocalsound}
+
+[Project Manager] Well if it does then we can't .
+
+[Industrial Designer] Mm .
+
+[Marketing] Considering {disfmarker}
+
+[Project Manager] {vocalsound} It's that simple ,
+
+[Marketing] Yeah .
+
+[Project Manager] because we've got uh th th three um primary um uh requisites from uh from and email uh that was sent to me whereby we had {disfmarker} The design logo was one , which we've already mentioned . We've got um the remote was only for the television and not for {disfmarker} because that would make it too complex and we have to get it market quickly .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] And the uh third thing was that um teletext uh as far as uh the management is concerned , um is becoming dated uh due to the popularity of the internet . So that means that uh {disfmarker}
+
+[Industrial Designer] 'Kay .
+
+[Marketing] Okay .
+
+[Project Manager] so these are the sort of three um extra parameters that have been put on this uh project .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] So we're being focused effectively directly at a television and it seems to me that the management is uh wanting us to go down a narrow path and not opening out .
+
+[Industrial Designer] Yes .
+
+[Project Manager] So anything that uh is to be added , such as voice recognition et cetera has to be very simple and has to be very quick
+
+[Industrial Designer] Has to be simple enough to {disfmarker}
+
+[Project Manager] because time to market is is critical . S
+
+[Industrial Designer] {vocalsound} {gap} I suppose if we could get something in which was quite quick and simple that would give us an advantage over the other remotes . Um .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] It would . But probably quick and simple is primary rather than added extras .
+
+[Industrial Designer] 'Kay .
+
+[Project Manager] Added extras would be nice , but the primary consideration is to get the project finished within uh this short time window , which effectively now is sort of four hours .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] So {disfmarker} and if {disfmarker} and we've gotta get to the end . Uh d d I think I think first and foremost we've gotta get to the end and then get to the end with um added extras if possible .
+
+[Industrial Designer] Mm-hmm .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] Okay .
+
+[Marketing] So {disfmarker}
+
+[Project Manager] {gap} Right okay , uh so I need to {disfmarker} Right . So I don't know how long we have left of our uh time . But we have to make the decisions on uh the remote control functions
+
+[Marketing] About five minutes .
+
+[Project Manager] and how we were planning to proceed so that at the next uh meeting each person that's got a a a task to do is clear from this meeting what that task is .
+
+[Industrial Designer] Yes .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] We'll also know w when the next meeting is
+
+[Industrial Designer] Um . {vocalsound}
+
+[Project Manager] I um {disfmarker} so we'll know how long we've got to complete that task . And then we can report back at the next meeting and say right okay yes , we've achieved this or we haven't achieved this , this is how far we've progressed . Does that make reasonable sense ?
+
+[User Interface] {vocalsound}
+
+[Marketing] Mm-hmm .
+
+[Industrial Designer] Yes that seems right .
+
+[User Interface] Yeah .
+
+[Marketing] Okay , yeah .
+
+[Project Manager] So we have to come effectively to the decision on the remote functions so that you can decide what you're gonna be doing . And if dur between the time of this meeting finishing and the next meeting starting , if you get any additional information that uh only you have at that point in time you'd think would be relevant to other people in terms of their des decision making um process , then we should communicate that as quickly as possible and not wait until the next meeting .
+
+[Industrial Designer] Mm-hmm .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] Do it via the email
+
+[Marketing] Okay . Yep .
+
+[Project Manager] so that rather than coming you know {disfmarker} If you get the information just before the next meeting that's fine . Come along with it in the next meeting , we can discuss it then and take whatever action is appropriate .
+
+[Industrial Designer] Okay .
+
+[Project Manager] But if you get it well before the next meeting , let everybody else know 'cause that might have an impact on their uh {disfmarker} on what they come up with {vocalsound} effectively at the next meeting .
+
+[Marketing] Yeah .
+
+[Project Manager] Okay .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] Right , is there {disfmarker}
+
+[Marketing] So do we need to decide on the functions now ? S
+
+[Project Manager] I would guess so .
+
+[User Interface] Well I think it'd be really easy and it'd be a big advantage if we did have some sort of um kind of whistle back kind of function .
+
+[Marketing] Mm-hmm .
+
+[User Interface] 'Cause that'll solve kind of the frustration of losing it .
+
+[Marketing] Yeah and {disfmarker} Yeah and that was that was the number one sort of frustration that people said , so .
+
+[Project Manager] Yep .
+
+[User Interface] {vocalsound}
+
+[Marketing] I don't think there's anything else on the market that does that , so .
+
+[User Interface] Yeah . I don't really know about the voice recognition thing .
+
+[Project Manager] I {vocalsound} w well uh i
+
+[Industrial Designer] Maybe we should concentrate just on the whistle back function at the moment ,
+
+[Project Manager] Something simple . Uh if if our primary consideration is to get it there in time , time's short ,
+
+[Industrial Designer] and if something comes back {disfmarker}
+
+[Project Manager] you want something to meet the major concerns of the consumer so that we can have that as a selling point for the product ,
+
+[User Interface] Mm-hmm .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] something that's quick and simple . So ,
+
+[User Interface] Yeah .
+
+[Project Manager] sounds good .
+
+[User Interface] And that wouldn't put off the kind of older generation either , 'cause everyone can whistle or clap , and they wouldn't have to be kind of scared of this new technology .
+
+[Project Manager] Well , so maybe a clap rather than a whistle would be {disfmarker} {vocalsound}
+
+[Marketing] Mm-hmm .
+
+[Project Manager] On the basis that if we've got {disfmarker} if we're catering to the whole age range , you want something that's easy to do ,
+
+[Industrial Designer] {gap}
+
+[Project Manager] now something that doesn't like whis uh
+
+[Marketing] No not everyone can whistle , can they , though ? {vocalsound}
+
+[Project Manager] Well I I I don't know . Well If you think that more people can whistle than clap then that's fine , then go for that option ,
+
+[User Interface] {vocalsound}
+
+[Project Manager] but if {disfmarker} I would have thought that more people could clap rather than whistle ,
+
+[Marketing] No ,
+
+[Industrial Designer] I'd go more {disfmarker}
+
+[Marketing] clapping , I think clapping ,
+
+[Industrial Designer] Yeah , f more for clap .
+
+[Marketing] yeah . Yeah .
+
+[Project Manager] so uh so clap option .
+
+[Marketing] Yeah .
+
+[Project Manager] Okay .
+
+[User Interface] 'Kay we've already decided that we don't need a teletext button , haven't we ?
+
+[Project Manager] Uh . Ef effectively that's what the that's what they're saying ,
+
+[User Interface] Is that one of the {disfmarker}
+
+[Project Manager] that uh if uh if people are now using the internet then you don't need teletext ,
+
+[User Interface] Hmm .
+
+[Marketing] {vocalsound}
+
+[Project Manager] so so take out teletext .
+
+[Marketing] {vocalsound} Taking out teletext , okay .
+
+[Industrial Designer] Did we decide on having the ten um the ten numbers
+
+[User Interface] Right .
+
+[Industrial Designer] and then the the little digit next to it which kind of enabled you to put them together .
+
+[User Interface] Yeah , I think so , so zero to nine .
+
+[Marketing] Mm . I think nowadays you can just get ones where it gives you a sort of a second or two to press another number ,
+
+[Project Manager] Yeah .
+
+[Marketing] so you can press any two and it'll sort of put them together .
+
+[Industrial Designer] Okay , ten numbers
+
+[User Interface] {vocalsound}
+
+[Industrial Designer] and then some kind of device to allow uh {disfmarker}
+
+[Marketing] Yeah .
+
+[Industrial Designer] I'll put delay to allow um multiple numbers .
+
+[Marketing] Yeah .
+
+[Industrial Designer] Or multiple digits .
+
+[Marketing] Yeah .
+
+[Industrial Designer] Did we decide anything about um the other functions ? As in setting the audio and tuning it and stuff like that ? You had an had an idea about the menu ?
+
+[Marketing] Uh {vocalsound} we could possibly put an L_ {disfmarker} a sort of a L_C_D_ menu in , but that again is probably an expense that {disfmarker}
+
+[Industrial Designer] But just thinking um people probably {disfmarker} I mean you don't have {disfmarker} you only have to probably tune in the T_V_ once , but you have to be able to tune it that once .
+
+[Marketing] Yeah .
+
+[Industrial Designer] So and if finally the T_V_ breaks , you get a new one , you're gonna have to be able to tune it . You can't really avoid that .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] No .
+
+[Industrial Designer] Except the new digital markets which do it by themselves .
+
+[User Interface] Hmm .
+
+[Project Manager] But the but that's relying on the television market changing to an automatic
+
+[Industrial Designer] So that'll be in {disfmarker}
+
+[Marketing] Yeah .
+
+[Industrial Designer] Yes .
+
+[Project Manager] and if it is at the moment , that's fine . But at the moment it's not , so it seems to me that you have to have a device that caters , 'cause otherwise it would make it {disfmarker} uh your device would become inoperable , or only operable in certain circumstances
+
+[Industrial Designer] Yeah . Yeah .
+
+[Project Manager] and the idea is to have an international market
+
+[Industrial Designer] Yeah yeah .
+
+[User Interface] Mm .
+
+[Project Manager] which is {disfmarker}
+
+[Marketing] Yeah .
+
+[Project Manager] And it's also m it's the the product we've got is something that's at the I would have said the lower end of the s of the cost scale , so we're not really going for something that's uh terribly high-tech .
+
+[Marketing] Yeah . I s I suppose um if people are buying remotes , then they're probably buying it to replace another remote
+
+[Project Manager] Possibly .
+
+[Marketing] 'cause all most tellies come with remotes , so .
+
+[Project Manager] That's right .
+
+[Marketing] I mean we're maybe talking about replacing remotes for slightly older televisions , so we maybe need to keep the the tuning function in . {gap}
+
+[Industrial Designer] Yeah . So how would this menu function work ?
+
+[User Interface] Yeah .
+
+[Industrial Designer] Would you maybe have like one menu button , then you'd use the other buttons , maybe the number buttons to actually do the separate functions .
+
+[User Interface] {vocalsound} Yeah ,
+
+[Marketing] Yeah ,
+
+[User Interface] like the volume or something .
+
+[Marketing] that would be a good idea , yeah .
+
+[Industrial Designer] Okay .
+
+[User Interface] Yeah , 'cause you do need um kind of brightness and contrast and everything as well . My dad was watching a film the other week
+
+[Marketing] Mm-hmm .
+
+[User Interface] and it was too dark , so I had to go through it and turn the brightness up .
+
+[Industrial Designer] {gap} {gap} we're gonna have the the individual numbers
+
+[Marketing] Hmm .
+
+[Industrial Designer] and then a menu function and maybe sort of a slightly more advanced um instruction booklet to come with it , to guide {disfmarker} Presu uh I think it'd be quite hard just for people to grasp um just off like the menu {gap} use different buttons you maybe have to have like some better instructions of how that would actually work .
+
+[Marketing] Uh {disfmarker} I'm not sure whether the sort of having people have a booklet 'cause one {disfmarker} the second most annoying thing that people found was having to learn the new one .
+
+[Project Manager] {vocalsound}
+
+[Industrial Designer] Right , okay um .
+
+[Marketing] So maybe next to each of the buttons , you know each of them could have a number and then also a function written next to it , so you're basically pressing {disfmarker}
+
+[Industrial Designer] {gap} that also goes back to the original design when we saw those two , and there was the one on the left hand side which had all like the double functions and stuff which kind of looked too busy and had too much on it , so .
+
+[Marketing] Right .
+
+[Project Manager] Okay , well .
+
+[User Interface] Well , if we're trying to keep it slee sleek and sexy as well , have you seen those remotes where kind of um the bottom bit slides down , so there's kind of um everything else revealed ?
+
+[Marketing] Okay .
+
+[Project Manager] Mm .
+
+[Marketing] Yeah .
+
+[Project Manager] So y Ah That's a very good idea .
+
+[User Interface] So you don't use it that much , you don't have to see it all the time . But it's all there if you need it .
+
+[Industrial Designer] That is that is a good idea actually .
+
+[Marketing] Yeah , yeah .
+
+[Industrial Designer] Sor sort of a second .
+
+[Project Manager] So you keep um {disfmarker}
+
+[User Interface] Like a hidden panel .
+
+[Project Manager] Right we've got five minutes before we wind up this meeting , so I've been told . I don't know if you've got the same .
+
+[Industrial Designer] Okay . Uh not quite , but I guess {gap} .
+
+[Project Manager] Okay . So so keep um keep detailed functions um hidden at the back .
+
+[Industrial Designer] Keep the other buttons but hide them away .
+
+[User Interface] Hmm . And that'll be better for the older generation as well 'cause , well my dad doesn't like anything that you've got to kinda flick through a menu ,
+
+[Project Manager] Ah .
+
+[User Interface] but he can pretty much read a button if it's displayed properly .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] Mm-hmm .
+
+[Industrial Designer] So {disfmarker}
+
+[Marketing] Yeah .
+
+[Industrial Designer] So um {vocalsound} we're gonna have to have to work out what's gonna be on these other functions as as well . So we're gonna have like two separate two separate lists , I guess .
+
+[Marketing] Yeah .
+
+[Project Manager] That's right .
+
+[Marketing] Yeah .
+
+[Project Manager] {gap} data functions hidden at back . Can bring out when needed .
+
+[Marketing] So th the {disfmarker} The detailed ones would be sort of brightness ,
+
+[User Interface] Yeah .
+
+[Marketing] uh sorta {disfmarker}
+
+[Project Manager] That's right so we're dis So you've got which ones are gonna be on the front and which ones are gonna be on the back . We have to decide .
+
+[Industrial Designer] So sh Should we decide in the next couple of minutes , and then {disfmarker}
+
+[Marketing] Mm-hmm .
+
+[Project Manager] I guess so .
+
+[Marketing] Yeah .
+
+[Industrial Designer] So on the {disfmarker}
+
+[Project Manager] So on front ,
+
+[Industrial Designer] {gap} about the number {gap} .
+
+[Project Manager] numbers ,
+
+[Industrial Designer] Um the volume up and down .
+
+[User Interface] And the volume ?
+
+[Project Manager] {vocalsound} volume .
+
+[Industrial Designer] Shall we have a mute button as well ?
+
+[User Interface] Um .
+
+[Project Manager] Sorry ?
+
+[Industrial Designer] A mute button as well .
+
+[User Interface] Yeah .
+
+[Project Manager] Mm .
+
+[Industrial Designer] Yeah . Or {disfmarker}
+
+[User Interface] Yeah I think they're handy .
+
+[Marketing] Mm-hmm . And probably a power one as well . {vocalsound} Dunno .
+
+[User Interface] I know it's probably like um not an issue to raise here , but um the whole thing about not using your standby uh because of the like waste of electricity {gap} . Have you seen the adverts ? Like if you boil the kettle that's full that's a waste .
+
+[Marketing] Mm-hmm .
+
+[Project Manager] Mm-hmm .
+
+[User Interface] If you leave your telly on standby it powers Blackpool for a certain amount of time .
+
+[Marketing] Yeah . {vocalsound}
+
+[User Interface] Like we should maybe try to discourage people from standby .
+
+[Industrial Designer] But then they might not buy it if they haven't got one . 'Cause people might just be too fickle and not want to change .
+
+[User Interface] Yeah , it's maybe too much of a big issue for here .
+
+[Marketing] Yeah .
+
+[Project Manager] {vocalsound} So so are you having the stand-by on the front , then ?
+
+[Marketing] Yeah . {vocalsound}
+
+[Industrial Designer] We can send out a flier with the device saying that you shouldn't leave it on stand-by .
+
+[User Interface] {vocalsound} Uh-oh danger sign .
+
+[Industrial Designer] I think you probably should .
+
+[Project Manager] {vocalsound}
+
+[User Interface] Yeah , but a little bit smaller .
+
+[Marketing] {vocalsound} Okay .
+
+[User Interface] {vocalsound} Compromise .
+
+[Project Manager] Well {vocalsound} {gap} .
+
+[Industrial Designer] Um are we gonna have the channel up and down as well as the number buttons ?
+
+[Marketing] Um 'cause yeah the market research said there is quite a lot of people do just zap around and flick , so .
+
+[Industrial Designer] Okay , so we'll have um {disfmarker}
+
+[User Interface] Right .
+
+[Industrial Designer] So we've got ten eleven twelve thirteen fourteen fifteen sixteen there ?
+
+[Project Manager] Channel up and down .
+
+[Marketing] Um .
+
+[Project Manager] What else have we got ? What was that , sixteen ?
+
+[Marketing] Numbers is ten , volume is twelve ,
+
+[Project Manager] Volume button . How many volumes ?
+
+[Marketing] th Yeah si One up , one down .
+
+[Project Manager] Right okay .
+
+[User Interface] On mute .
+
+[Marketing] And a mute , yeah . That's sixteen isn't it , yeah .
+
+[Industrial Designer] Is there anything else ? Um .
+
+[Marketing] I don't think so , no .
+
+[Project Manager] Power button , stand-by , channel , up and down . So is that it ?
+
+[Industrial Designer] {gap}
+
+[User Interface] {gap} so .
+
+[Project Manager] Okay . That's sixteen buttons , you reckon . And then at the back ?
+
+[Marketing] You've got brightness and contrast .
+
+[Industrial Designer] Maybe if we're gonna run out of time , one of us should come up with a list of these and then get back at the next meeting just at the start and say what they're gonna be .
+
+[User Interface] And then {disfmarker}
+
+[Project Manager] Okay . So on the back it'll have brightness , contrast ,
+
+[User Interface] Mm-hmm .
+
+[Marketing] Yeah .
+
+[Project Manager] anything else ? You're also gonna have the channel tuner {gap} , as it were .
+
+[User Interface] Uh there's audio functions .
+
+[Industrial Designer] So tuner up and down , I guess .
+
+[Marketing] Yeah .
+
+[User Interface] Yeah .
+
+[Project Manager] Tuner , would that have up and down ? {gap} .
+
+[Industrial Designer] Um up {disfmarker} Tune one way , tune the o
+
+[User Interface] I think they normally do .
+
+[Project Manager] {gap} okay {gap} . Okay .
+
+[Industrial Designer] I I dunno I dunno possibly .
+
+[Marketing] Yeah .
+
+[User Interface] Yeah .
+
+[Marketing] And then maybe sort of an enter button for sort of s you know , saying that you want that particular thing tuned in . So you go up and down and then it pick it finds something and then you wanna press enter to select it , yeah .
+
+[Industrial Designer] Oh yeah and th and a enter button just to select . Yeah , okay . Um I guess we're keeping s it simple . We don't really need any other audio funct uh functions because it's just volume up , volume down .
+
+[Project Manager] Um up volume , yeah , I would have thought so .
+
+[Industrial Designer] Um .
+
+[Marketing] Yeah .
+
+[User Interface] So I think um there's quite a lot of like Dolby surround studio , surround sort of things .
+
+[Project Manager] Okay .
+
+[Industrial Designer] Do they have their own {disfmarker} do they have their own controls on their actual products , then ,
+
+[Marketing] Yeah .
+
+[User Interface] Um maybe for the younger market .
+
+[Industrial Designer] or do you have to do it via the remote ?
+
+[User Interface] Um I think they've got their own controls in this kind of like hidden panel .
+
+[Industrial Designer] Yeah I suppose if we've got their {disfmarker} if they've got their own controls then we can avoid it for ours just to keep it simple .
+
+[Project Manager] Yeah . Yeah .
+
+[User Interface] Oh no , I mean um like there's kind of individual buttons for them , like on the T_V_ remote .
+
+[Industrial Designer] Oh , okay . Right .
+
+[User Interface] But I don't really know what they're for ,
+
+[Marketing] Mm-hmm .
+
+[User Interface] I've never used them .
+
+[Industrial Designer] Um .
+
+[User Interface] I just know they're something to do with Dolby .
+
+[Industrial Designer] Maybe unless something comes up then we should I think {disfmarker}
+
+[Project Manager] Well you might get some research . {vocalsound}
+
+[User Interface] {vocalsound}
+
+[Industrial Designer] Well shall we look into that and just get back together .
+
+[Project Manager] Okay .
+
+[Marketing] Okay .
+
+[Project Manager] Right so I'll do the minutes of uh this meeting .
+
+[User Interface] Right .
+
+[Marketing] Right .
+
+[Project Manager] And we'll meet back at I'm not sure . Um forty minutes , I believe is the time .
+
+[Industrial Designer] 'Kay .
+
+[Marketing] Okay . {vocalsound} {vocalsound}
+
+[Project Manager] Come on .
+
