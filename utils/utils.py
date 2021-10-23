@@ -54,7 +54,7 @@ def replace_phrases(ctx):
     ctx = ctx.replace("is going to", "will")
     ctx = ctx.replace("are going to", "will")
     ctx = ctx.replace("are discussing", "discussed")
-    ctx = ctx.replace("discuss", "discussed")
+    ctx = ctx.replace("discuss ", "discussed")
     ctx = ctx.replace("are working", "worked")
     ctx = ctx.replace("is working", "worked")
 
